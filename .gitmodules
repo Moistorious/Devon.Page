@@ -1,0 +1,4 @@
+
+[submodule "themes/lekh"]
+	path = themes/lekh
+	url = https://github.com/ba11b0y/lekh

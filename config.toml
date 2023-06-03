@@ -1,0 +1,20 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = ""
+theme = "lekh"
+
+[params]
+Name = "Devon Page"
+About = "A Software Developer, and a Tinkerer"
+Email = "devonmp@gmail.com"
+Resume = "" # Add the filename with file extension.
+PostLimit = 4 # Sets the number of posts to display on the front page
+GoatCounterCode = "<script data-goatcounter=\"https://moistorious.goatcounter.com/count\" async src=\"//gc.zgo.at/count.js\"></script>"
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/Moistorious"
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/devon-page-60b44b5b"
