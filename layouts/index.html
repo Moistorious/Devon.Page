@@ -33,7 +33,7 @@
 	<div>
 		{{ range (where .Site.RegularPages.ByPublishDate "Section" "projects") }}
 		<div>
-			<a href="{{ .Permalink }}">{{ .Title }} bleck</a><br />
+			<a href="{{ .Permalink }}">{{ .Title }}</a><br />
 			<time>{{ .Date.Format "January 2, 2006" }}</time>
 		</div>
 		<br />
