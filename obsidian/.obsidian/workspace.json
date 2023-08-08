@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/_index.md",
+                "file": "projects/GB-Cart-Reader/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/_index.md",
+                "file": "projects/GB-Cart-Reader/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/_index.md",
+                "file": "projects/GB-Cart-Reader/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/_index.md"
+                "file": "projects/GB-Cart-Reader/index.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "466d1d972481c761",
   "lastOpenFiles": [
+    "projects/_index.md",
     "projects/GB-Cart-Reader/index.md",
     "projects/GB-Cart-Reader/PXL_20230805_214940704.MP.jpg",
     "_index.md",
     "projects/IVF-18-Clock.md",
     "projects/Falling-Sand-LED-Panel.md",
-    "projects/_index.md",
     "projects/GB-Cart-Reader",
     "PXL_20230805_214940704.MP.jpg.md",
     "projects/PXL_20230805_214940704.MP.jpg",
